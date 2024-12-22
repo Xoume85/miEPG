@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 22/12/2024 11:30" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 22/12/2024 18:46" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -72,7 +72,7 @@
   <programme start="20241222185500 +0100" stop="20241222203500 +0100" channel="La 1 Super UHD 4k">
     <title lang="es">Gremlins</title>
     <desc lang="es">Cine/Fantástico | 1984 | +12 | *8.0/10
-· Un adolescente recibe un extraño animalito llamado Guizmo como regalo. Para su cuidado solo hay que seguir tres sencillas reglas... que nunca se deben saltar. Votos: 1025.
+· Un adolescente recibe un extraño animalito llamado Guizmo como regalo. Para su cuidado solo hay que seguir tres sencillas reglas... que nunca se deben saltar. Votos: 1026.
 · País: EE.UU.
 · Dirección: Joe Dante.
 · Reparto: Zach Galligan, Phoebe Cates, Hoyt Axton, Polly Holliday, Frances Lee McCain, Judge Reinhold, Dick Miller, Harry Carey Jr., Keye Luke, Corey Feldman, Scott Brady, John Louie.
@@ -963,8 +963,8 @@
   </programme>
   <programme start="20241222103000 +0100" stop="20241222113000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">El día del señor T2024 · Tercer Monasterio de la Visitación</title>
-    <desc lang="es">Cultural/Educativo/Religión | 2024 | TP
-· Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
+    <desc lang="es">Cultural/Educativo/Religión | 2024 | TP | *10.0/10
+· Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia. Votos: 1.
 · País: España
 · Dirección: Juan Carlos Ramos.
 · Productora: Televisión Española (TVE).</desc>
@@ -972,7 +972,7 @@
   <programme start="20241222113000 +0100" stop="20241222115500 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Pueblo de Dios</title>
     <desc lang="es">Cultural/Educativo/Religión | 1982 | TP | *6.0/10
-· Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica. Votos: 93.
+· Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica. Votos: 94.
 · País: España
 · Dirección: Julián Del Olmo.
 · Productora: Televisión Española (TVE).</desc>
@@ -1095,7 +1095,7 @@
   <programme start="20241222223000 +0100" stop="20241223000000 +0100" channel="La 2 Super Full HD 8k">
     <title lang="es">Nora</title>
     <desc lang="es">Cine/Drama | 2020 | +7 | *6.0/10
-· Nora tiene 30 años, vive con su abuelo argentino Nicolás y su vida no es la que ella deseaba. Tiene pequeños trabajos y casi no ha salido de su pueblo. Pero todo cambia con la muerte del abuelo. Votos: 5.
+· Nora tiene 30 años, vive con su abuelo argentino Nicolás y su vida no es la que ella deseaba. Tiene pequeños trabajos y casi no ha salido de su pueblo. Pero todo cambia con la muerte del abuelo. Votos: 6.
 · País: España
 · Dirección: Lara Izagirre.
 · Reparto: Ane Pikaza, Naiara Carmona, Ramón Barea, Klara Badiola, Loli Astoreka, Héctor Alterio.
@@ -2761,294 +2761,6 @@
   <programme start="20241223173000 -0600" stop="20241223193000 -0600" channel="MX | Canal TV Azteca">
     <title lang="es">Acércate a Rocío</title>
   </programme>
-  <programme start="20241221060000 -0500" stop="20241221064300 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221064300 -0500" stop="20241221072600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221072600 -0500" stop="20241221081000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Infections</sub-title>
-    <desc lang="en">Horror has warned about pandemics for years, in films that mirror reality, such as &quot;Outbreak,&quot; &quot;Contagion,&quot; &quot;12 Monkeys,&quot; surreal plagues &quot;Shivers,&quot; &quot;Rabid,&quot; zombie outbreaks &quot;REC,&quot; &quot;Pontypool&quot; and pathogens from space &quot;The Andromeda Strain.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221081000 -0500" stop="20241221085400 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Psychics</sub-title>
-    <desc lang="en">In films like &quot;The Dead Zone,&quot; &quot;Scanners,&quot; &quot;Doctor Sleep&quot; and &quot;Beetlejuice,&quot; horror superstars Stephen King, David Cronenberg, Mike Flanagan, Brian DePalma, Sam Raimi, Peter Jackson and Tim Burton bring psychic powers to the screen in thrilling ways.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221085400 -0500" stop="20241221093800 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Apocalyptic Horror</sub-title>
-    <desc lang="en">The apocalyptic visions of &quot;World War Z,&quot; &quot;Train to Busan,&quot; &quot;Zombieland,&quot; &quot;War of the Worlds,&quot; &quot;I Am Legend,&quot; &quot;The Omega Man,&quot; &quot;10 Cloverfield Lane,&quot; &quot;Night of the Comet&quot; and &quot;The Invasion of the Body Snatchers.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221093800 -0500" stop="20241221102200 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including &quot;Black Christmas,&quot; &quot;Krampus,&quot; &quot;Silent Night Deadly Night,&quot; &quot;Terror Train,&quot; &quot;My Bloody Valentine,&quot; &quot;Mother&apos;s Day,&quot; &quot;April Fool&apos;s Day,&quot; &quot;Happy Death Day&quot; and the 2018 &quot;Halloween,&quot; featuring returning guest Jamie Lee Curtis.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221102200 -0500" stop="20241221110600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221110600 -0500" stop="20241221115100 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221115100 -0500" stop="20241221123500 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Infections</sub-title>
-    <desc lang="en">Horror has warned about pandemics for years, in films that mirror reality, such as &quot;Outbreak,&quot; &quot;Contagion,&quot; &quot;12 Monkeys,&quot; surreal plagues &quot;Shivers,&quot; &quot;Rabid,&quot; zombie outbreaks &quot;REC,&quot; &quot;Pontypool&quot; and pathogens from space &quot;The Andromeda Strain.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221123500 -0500" stop="20241221131900 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Psychics</sub-title>
-    <desc lang="en">In films like &quot;The Dead Zone,&quot; &quot;Scanners,&quot; &quot;Doctor Sleep&quot; and &quot;Beetlejuice,&quot; horror superstars Stephen King, David Cronenberg, Mike Flanagan, Brian DePalma, Sam Raimi, Peter Jackson and Tim Burton bring psychic powers to the screen in thrilling ways.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221131900 -0500" stop="20241221140300 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Apocalyptic Horror</sub-title>
-    <desc lang="en">The apocalyptic visions of &quot;World War Z,&quot; &quot;Train to Busan,&quot; &quot;Zombieland,&quot; &quot;War of the Worlds,&quot; &quot;I Am Legend,&quot; &quot;The Omega Man,&quot; &quot;10 Cloverfield Lane,&quot; &quot;Night of the Comet&quot; and &quot;The Invasion of the Body Snatchers.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221140300 -0500" stop="20241221144900 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including &quot;Black Christmas,&quot; &quot;Krampus,&quot; &quot;Silent Night Deadly Night,&quot; &quot;Terror Train,&quot; &quot;My Bloody Valentine,&quot; &quot;Mother&apos;s Day,&quot; &quot;April Fool&apos;s Day,&quot; &quot;Happy Death Day&quot; and the 2018 &quot;Halloween,&quot; featuring returning guest Jamie Lee Curtis.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221144900 -0500" stop="20241221153300 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221153300 -0500" stop="20241221161800 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221161800 -0500" stop="20241221170200 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Infections</sub-title>
-    <desc lang="en">Horror has warned about pandemics for years, in films that mirror reality, such as &quot;Outbreak,&quot; &quot;Contagion,&quot; &quot;12 Monkeys,&quot; surreal plagues &quot;Shivers,&quot; &quot;Rabid,&quot; zombie outbreaks &quot;REC,&quot; &quot;Pontypool&quot; and pathogens from space &quot;The Andromeda Strain.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221170200 -0500" stop="20241221174600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Psychics</sub-title>
-    <desc lang="en">In films like &quot;The Dead Zone,&quot; &quot;Scanners,&quot; &quot;Doctor Sleep&quot; and &quot;Beetlejuice,&quot; horror superstars Stephen King, David Cronenberg, Mike Flanagan, Brian DePalma, Sam Raimi, Peter Jackson and Tim Burton bring psychic powers to the screen in thrilling ways.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221174600 -0500" stop="20241221183000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Apocalyptic Horror</sub-title>
-    <desc lang="en">The apocalyptic visions of &quot;World War Z,&quot; &quot;Train to Busan,&quot; &quot;Zombieland,&quot; &quot;War of the Worlds,&quot; &quot;I Am Legend,&quot; &quot;The Omega Man,&quot; &quot;10 Cloverfield Lane,&quot; &quot;Night of the Comet&quot; and &quot;The Invasion of the Body Snatchers.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221183000 -0500" stop="20241221191600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including &quot;Black Christmas,&quot; &quot;Krampus,&quot; &quot;Silent Night Deadly Night,&quot; &quot;Terror Train,&quot; &quot;My Bloody Valentine,&quot; &quot;Mother&apos;s Day,&quot; &quot;April Fool&apos;s Day,&quot; &quot;Happy Death Day&quot; and the 2018 &quot;Halloween,&quot; featuring returning guest Jamie Lee Curtis.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221191600 -0500" stop="20241221200000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221200000 -0500" stop="20241221204500 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221204500 -0500" stop="20241221213000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Infections</sub-title>
-    <desc lang="en">Horror has warned about pandemics for years, in films that mirror reality, such as &quot;Outbreak,&quot; &quot;Contagion,&quot; &quot;12 Monkeys,&quot; surreal plagues &quot;Shivers,&quot; &quot;Rabid,&quot; zombie outbreaks &quot;REC,&quot; &quot;Pontypool&quot; and pathogens from space &quot;The Andromeda Strain.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221213000 -0500" stop="20241221221600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Psychics</sub-title>
-    <desc lang="en">In films like &quot;The Dead Zone,&quot; &quot;Scanners,&quot; &quot;Doctor Sleep&quot; and &quot;Beetlejuice,&quot; horror superstars Stephen King, David Cronenberg, Mike Flanagan, Brian DePalma, Sam Raimi, Peter Jackson and Tim Burton bring psychic powers to the screen in thrilling ways.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221221600 -0500" stop="20241221230300 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Apocalyptic Horror</sub-title>
-    <desc lang="en">The apocalyptic visions of &quot;World War Z,&quot; &quot;Train to Busan,&quot; &quot;Zombieland,&quot; &quot;War of the Worlds,&quot; &quot;I Am Legend,&quot; &quot;The Omega Man,&quot; &quot;10 Cloverfield Lane,&quot; &quot;Night of the Comet&quot; and &quot;The Invasion of the Body Snatchers.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221230300 -0500" stop="20241221234900 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including &quot;Black Christmas,&quot; &quot;Krampus,&quot; &quot;Silent Night Deadly Night,&quot; &quot;Terror Train,&quot; &quot;My Bloody Valentine,&quot; &quot;Mother&apos;s Day,&quot; &quot;April Fool&apos;s Day,&quot; &quot;Happy Death Day&quot; and the 2018 &quot;Halloween,&quot; featuring returning guest Jamie Lee Curtis.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241221234900 -0500" stop="20241222003600 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222003600 -0500" stop="20241222012300 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222012300 -0500" stop="20241222021000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Infections</sub-title>
-    <desc lang="en">Horror has warned about pandemics for years, in films that mirror reality, such as &quot;Outbreak,&quot; &quot;Contagion,&quot; &quot;12 Monkeys,&quot; surreal plagues &quot;Shivers,&quot; &quot;Rabid,&quot; zombie outbreaks &quot;REC,&quot; &quot;Pontypool&quot; and pathogens from space &quot;The Andromeda Strain.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222021000 -0500" stop="20241222025700 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Psychics</sub-title>
-    <desc lang="en">In films like &quot;The Dead Zone,&quot; &quot;Scanners,&quot; &quot;Doctor Sleep&quot; and &quot;Beetlejuice,&quot; horror superstars Stephen King, David Cronenberg, Mike Flanagan, Brian DePalma, Sam Raimi, Peter Jackson and Tim Burton bring psychic powers to the screen in thrilling ways.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222025700 -0500" stop="20241222034400 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Apocalyptic Horror</sub-title>
-    <desc lang="en">The apocalyptic visions of &quot;World War Z,&quot; &quot;Train to Busan,&quot; &quot;Zombieland,&quot; &quot;War of the Worlds,&quot; &quot;I Am Legend,&quot; &quot;The Omega Man,&quot; &quot;10 Cloverfield Lane,&quot; &quot;Night of the Comet&quot; and &quot;The Invasion of the Body Snatchers.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222034400 -0500" stop="20241222043100 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Holiday Horror</sub-title>
-    <desc lang="en">Holiday mayhem, including &quot;Black Christmas,&quot; &quot;Krampus,&quot; &quot;Silent Night Deadly Night,&quot; &quot;Terror Train,&quot; &quot;My Bloody Valentine,&quot; &quot;Mother&apos;s Day,&quot; &quot;April Fool&apos;s Day,&quot; &quot;Happy Death Day&quot; and the 2018 &quot;Halloween,&quot; featuring returning guest Jamie Lee Curtis.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222043100 -0500" stop="20241222051800 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Mad Scientist</sub-title>
-    <desc lang="en">From Frankenstein to Frank N. Furter, mad scientists smash the barriers of polite society; featuring &quot;Frankenstein,&quot; &quot;Ex Machina,&quot; &quot;The Invisible Man,&quot; &quot;The Fly,&quot; &quot;Dr. Jekyll and Mr. Hyde,&quot; &quot;Altered States&quot; and &quot;The Rocky Horror Picture Show.&quot;.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
-  <programme start="20241222051800 -0500" stop="20241222060000 -0500" channel="USA | AMC+">
-    <title lang="en">Eli Roth&apos;s History of Horror</title>
-    <sub-title lang="en">Sequels That Don&apos;t Suck</sub-title>
-    <desc lang="en">Fans of horror films, like &quot;A Nightmare on Elm Street 3,&quot; &quot;Psycho II,&quot; &quot;The First Purge,&quot; &quot;Bride of Chucky,&quot; &quot;Scream 2&quot; and &quot;Gremlins 2: The New Batch,&quot; say sometimes sequels are as good or even better than the originals.</desc>
-    <category lang="en">Documentary</category>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVMA</value>
-    </rating>
-  </programme>
   <programme start="20241222060000 -0500" stop="20241222064600 -0500" channel="USA | AMC+">
     <title lang="en">A Discovery of Witches</title>
     <desc lang="en">Matthew and Diana arrive in Bohemia to search for the Book of Life; they meet Emperor Rudolf II, who immediately expresses a lascivious interest in Diana; Matthew is pushed to the edge.</desc>
@@ -4026,6 +3738,206 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
+  <programme start="20241225053900 -0500" stop="20241225060000 -0500" channel="USA | AMC+">
+    <title lang="en">Comic Book Men</title>
+    <sub-title lang="en">Return of the Mewes</sub-title>
+    <desc lang="en">Jason Mewes inserts himself into transactions involving a Deadshot statue and a vintage Death Star Space Station.</desc>
+    <category lang="en">Reality TV</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme start="20241225060000 -0500" stop="20241225074500 -0500" channel="USA | AMC+">
+    <title lang="en">Skinamarink</title>
+    <desc lang="en">Two children wake up in the middle of the night to find their father is missing, and all the windows and doors in their home have vanished.</desc>
+    <credits>
+      <actor>Lucas Paul</actor>
+      <actor>Dali Rose Tetreault</actor>
+      <actor>Ross Paul</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown />  <star-rating system="MPAA">
+      <value>4.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241225074500 -0500" stop="20241225092400 -0500" channel="USA | AMC+">
+    <title lang="en">The Cellar</title>
+    <desc lang="en">A woman must confront an ancient and powerful entity after her daughter mysteriously vanishes in the cellar of their new home.</desc>
+    <credits>
+      <actor>Elisha Cuthbert</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Abby Fitz</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241225092400 -0500" stop="20241225105700 -0500" channel="USA | AMC+">
+    <title lang="en">Caveat</title>
+    <desc lang="en">A desperate drifter suffering from partial memory loss agrees to look after his landlord&apos;s psychologically troubled niece in an isolated island mansion.</desc>
+    <credits>
+      <actor>Ben Caplan</actor>
+      <actor>Conor Dwane</actor>
+      <actor>Jonathan French</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241225105700 -0500" stop="20241225123300 -0500" channel="USA | AMC+">
+    <title lang="en">Halloween</title>
+    <desc lang="en">John Carpenter&apos;s chiller about an escaped maniac who returns to his Illinois hometown to continue his bloody rampage.</desc>
+    <credits>
+      <actor>Donald Pleasence</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <actor>Nancy Loomis</actor>
+    </credits>
+    <date>1978</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Hallowe&apos;en</category>
+    <category lang="en">Horror</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241225123300 -0500" stop="20241225142500 -0500" channel="USA | AMC+">
+    <title lang="en">Nightwatch</title>
+    <desc lang="en">The night watchman at a hospital morgue is haunted by grisly visions and deviant desires. When several local prostitutes are brutally murdered he becomes the primary suspect.</desc>
+    <credits>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Sofie Gråbøl</actor>
+      <actor>Kim Bodnia</actor>
+    </credits>
+    <date>1994</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241225142500 -0500" stop="20241225162300 -0500" channel="USA | AMC+">
+    <title lang="en">Nightwatch - Demons Are Forever</title>
+    <desc lang="en">Martin&apos;s daughter, Emma, takes up a night watch job to figure out what happened to her parents almost thirty years ago; a meeting with Wörmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.</desc>
+    <credits>
+      <actor>Fanny Bornedal</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Kim Bodnia</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Drama</category>
+    <previously-shown /></programme>
+  <programme start="20241225162300 -0500" stop="20241225180200 -0500" channel="USA | AMC+">
+    <title lang="en">Stopmotion</title>
+    <desc lang="en">A talented stop-motion animator becomes consumed by the grotesque world of her horrifying creations -- with deadly results.</desc>
+    <credits>
+      <actor>Aisling Franciosi</actor>
+      <actor>Stella Gonet</actor>
+      <actor>Tom York</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241225180200 -0500" stop="20241225200000 -0500" channel="USA | AMC+">
+    <title lang="en">Donnie Darko</title>
+    <desc lang="en">An unusual teenager (Jake Gyllenhaal) follows the instructions of the 6-foot-tall rabbit which saved his life.</desc>
+    <credits>
+      <actor>Jake Gyllenhaal</actor>
+      <actor>Jena Malone</actor>
+      <actor>Drew Barrymore</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Sci-Fi</category>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241225200000 -0500" stop="20241225213000 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Bloody Christmas</title>
+    <desc lang="en">Tori just wants to get drunk and party on Christmas Eve, but she&apos;s forced into a battle for survival when a robotic Santa Claus at a nearby toy store begins a killing spree in her small town.</desc>
+    <credits>
+      <actor>Riley Dandy</actor>
+      <actor>Sam Delich</actor>
+      <actor>Jonah Ray</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241225213000 -0500" stop="20241225230000 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Presence</title>
+    <desc lang="en">A Christmas gathering between friends quickly becomes a violent fight for survival.</desc>
+    <credits>
+      <actor>Charlotte Atkinson</actor>
+      <actor>Elsie Bennett</actor>
+      <actor>Lorna Brown</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <previously-shown /></programme>
+  <programme start="20241225230000 -0500" stop="20241226003000 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Bloody Christmas</title>
+    <desc lang="en">Tori just wants to get drunk and party on Christmas Eve, but she&apos;s forced into a battle for survival when a robotic Santa Claus at a nearby toy store begins a killing spree in her small town.</desc>
+    <credits>
+      <actor>Riley Dandy</actor>
+      <actor>Sam Delich</actor>
+      <actor>Jonah Ray</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Horror</category>
+    <previously-shown /></programme>
+  <programme start="20241226003000 -0500" stop="20241226015900 -0500" channel="USA | AMC+">
+    <title lang="en">Christmas Presence</title>
+    <desc lang="en">A Christmas gathering between friends quickly becomes a violent fight for survival.</desc>
+    <credits>
+      <actor>Charlotte Atkinson</actor>
+      <actor>Elsie Bennett</actor>
+      <actor>Lorna Brown</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Christmas</category>
+    <category lang="en">Comedy</category>
+    <previously-shown /></programme>
+  <programme start="20241226015900 -0500" stop="20241226033600 -0500" channel="USA | AMC+">
+    <title lang="en">Watcher</title>
+    <desc lang="en">As a serial killer stalks the city, a young actress who just moved to town with her boyfriend notices a mysterious stranger watching her from across the street.</desc>
+    <credits>
+      <actor>Maika Monroe</actor>
+      <actor>Karl Glusman</actor>
+      <actor>Burn Gorman</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown />  <star-rating system="MPAA">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20241226033600 -0500" stop="20241226051700 -0500" channel="USA | AMC+">
+    <title lang="en">You&apos;ll Never Find Me</title>
+    <desc lang="en">On a stormy night, a mysterious woman asks for shelter at Patrick&apos;s mobile home. Their anxiety and mutual mistrust grow as the night unfolds, causing fear and paranoia to engulf the small RV.</desc>
+    <credits>
+      <actor>Brendan Rock</actor>
+      <actor>Jordan Cowan</actor>
+      <actor>Elena Carapetis</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <previously-shown /></programme>
   <programme start="20241221000000 +0100" stop="20241221020000 +0100" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: Girona FC - Real Valladolid CF</title>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
