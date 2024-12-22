@@ -1,3 +1,4 @@
 La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P,ES: LA 1 ᵁᴴᴰ,ES: LA 1 HEVC,ES: LA 1 SD,ES: LA 1 ᴴᴰ
 La 2,LA2.es
+Antena 3 HD,ES: ANTENA 3 RAW ᵃᵐᶻ,ES: ANTENA 3 ᵁᴴᴰ,Antena3.es,ES: ANTENA 3 SD,ES: ANTENA 3 ᴴᴰ,ES: ANTENA 3 ᴴᴰ ᵃᵐᶻ,ES: ANTENA 3 ᵁᴴᴰ
 La Sexta,ES: LASEXTA ᴴᴰ ᵃᵐᶻ,LaSexta.es,ES: LASEXTA RAW ᵃᵐᶻ,ES: LA SEXTA ᵁᴴᴰ 
