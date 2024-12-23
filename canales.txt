@@ -1,4 +1,101 @@
-La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P,ES: LA 1 ᵁᴴᴰ,ES: LA 1 HEVC,ES: LA 1 SD,ES: LA 1 ᴴᴰ
+La 1 HD,ES: LA 1 ᵁᴴᴰ 3840P
+La 1 HD,ES: LA 1 ᵁᴴᴰ
+La 1 HD,ES: LA 1 HEVC
+La 1 HD,ES: LA 1 SD
+La 1 HD,ES: LA 1 ᴴᴰ
 La 2,LA2.es
-Antena 3 HD,ES: ANTENA 3 RAW ᵃᵐᶻ,ES: ANTENA 3 ᵁᴴᴰ,Antena3.es,ES: ANTENA 3 SD,ES: ANTENA 3 ᴴᴰ,ES: ANTENA 3 ᴴᴰ ᵃᵐᶻ,ES: ANTENA 3 ᵁᴴᴰ
-La Sexta,ES: LASEXTA ᴴᴰ ᵃᵐᶻ,LaSexta.es,ES: LASEXTA RAW ᵃᵐᶻ,ES: LA SEXTA ᵁᴴᴰ 
+La 2,ES: LA 2 ᵁᴴᴰ
+La 2,ES: LA 2 SD
+La 2,ES: LA 2 ᴴᴰ
+Antena 3 HD,ES: ANTENA 3 RAW ᵃᵐᶻ
+Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
+Antena 3 HD,Antena3.es
+Antena 3 HD,ES: ANTENA 3 SD
+Antena 3 HD,ES: ANTENA 3 ᴴᴰ
+Antena 3 HD,ES: ANTENA 3 ᴴᴰ ᵃᵐᶻ
+Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
+Cuatro HD,Cuatro.es
+Cuatro HD,ES: CUATRO ᵁᴴᴰ
+Cuatro HD,ES: CUATRO SD
+Cuatro HD,ES: CUATRO ᴴᴰ
+Telecinco HD,Telecinco.es
+Telecinco HD,ES: TELECINCO SD
+Telecinco HD,ES: TELECINCO ᵁᴴᴰ
+Telecinco HD,
+Telecinco HD,
+Telecinco HD,
+Telecinco HD,
+
+La Sexta,LaSexta.es
+La Sexta,ES: LASEXTA RAW ᵃᵐᶻ
+La Sexta,ES: LASEXTA ᴴᴰ ᵃᵐᶻ
+La Sexta,ES: LA SEXTA ᵁᴴᴰ
+La Sexta,ES: LA SEXTA SD
+La Sexta,ES: LA SEXTA ᴴᴰ
+
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ SD
+Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᴴᴰ
+
+M+ Cine HD,MovistarCine.es
+M+ Cine HD,ES: MOVISTAR CINE ᵁᴴᴰ
+M+ Cine HD,ES: MOVISTAR CINE ᴴᴰ
+M+ Cine HD,ES: MOVISTAR CINE SD
+
+M+ Series HD,MovistarSeries1.es
+M+ Series HD,ES: MOVISTAR SERIES ᵁᴴᴰ
+M+ Series HD,ES: MOVISTAR SERIES SD
+M+ Series HD,ES: MOVISTAR SERIES ᴴᴰ
+
+M+ Originales HD,ES: MOVISTAR ORIGINALES ᵁᴴᴰ
+M+ Originales HD,ES: MOVISTAR ORIGINALES SD
+M+ Originales HD,ES: MOVISTAR ORIGINALES ᴴᴰ
+
+M+ Navidad,
+
+M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
+M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᴴᴰ
+M+ Documentales HD,ES: MOVISTAR DOCUMENTALES SD
+
+M+ Frank Capra,
+
+La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA SD
+La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA ᴴᴰ
+
+M+ Clásicos HD,MovistarClasicos.es
+M+ Clásicos HD,ES: MOVISTAR CLASICOS ᵁᴴᴰ
+M+ Clásicos HD,ES: MOVISTAR CLASICOS SD
+M+ Clásicos HD,ES: MOVISTAR CLASICOS ᴴᴰ
+
+M+ Acción HD,MovistarAccion.es
+M+ Acción HD,ES: MOVISTAR ACCION SD
+M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
+M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
+
+M+ Comedia HD,MovistarComedia.es
+M+ Comedia HD,ES: MOVISTAR COMEDIA ᵁᴴᴰ
+M+ Comedia HD,ES: MOVISTAR COMEDIA SD
+M+ Comedia HD,ES: MOVISTAR COMEDIA ᴴᴰ
+
+M+ Drama HD,MovistarDrama.es
+M+ Drama HD,ES: MOVISTAR DRAMA ᴴᴰ
+M+ Drama HD,ES: MOVISTAR DRAMA SD
+M+ Drama HD,ES: MOVISTAR DRAMA ᵁᴴᴰ
+
+M+ Indie HD,ES: MOVISTAR INDIE SD
+M+ Indie HD,ES: MOVISTAR INDIE ᵁᴴᴰ
+M+ Indie HD,ES: MOVISTAR INDIE ᴴᴰ
+
+M+ Cine Español,MovistarCineEspanol.es
+M+ Cine Español,ES: MOVISTAR CINE Ñ ᴴᴰ
+M+ Cine Español,ES: MOVISTAR CINE Ñ ᵁᴴᴰ
+M+ Cine Español,ES: MOVISTAR CINE Ñ SD
+
+M+ PopUp,
+
+M+ PopUp 2,
+
+TCM HD,TCM.es
+TCM HD,ES: TCM ᵁᴴᴰ VOS
+TCM HD,ES: TCM ᵁᴴᴰ
+TCM HD,ES: TCM SD
