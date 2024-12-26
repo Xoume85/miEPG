@@ -3,10 +3,12 @@ La 1 HD,ES: LA 1 ᵁᴴᴰ
 La 1 HD,ES: LA 1 HEVC
 La 1 HD,ES: LA 1 SD
 La 1 HD,ES: LA 1 ᴴᴰ
+
 La 2,LA2.es
 La 2,ES: LA 2 ᵁᴴᴰ
 La 2,ES: LA 2 SD
 La 2,ES: LA 2 ᴴᴰ
+
 Antena 3 HD,ES: ANTENA 3 RAW ᵃᵐᶻ
 Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
 Antena 3 HD,Antena3.es
@@ -14,70 +16,484 @@ Antena 3 HD,ES: ANTENA 3 SD
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ
 Antena 3 HD,ES: ANTENA 3 ᴴᴰ ᵃᵐᶻ
 Antena 3 HD,ES: ANTENA 3 ᵁᴴᴰ
+
 Cuatro HD,Cuatro.es
 Cuatro HD,ES: CUATRO ᵁᴴᴰ
 Cuatro HD,ES: CUATRO SD
 Cuatro HD,ES: CUATRO ᴴᴰ
+
 Telecinco HD,Telecinco.es
 Telecinco HD,ES: TELECINCO SD
 Telecinco HD,ES: TELECINCO ᵁᴴᴰ
-Telecinco HD,
-Telecinco HD,
-Telecinco HD,
-Telecinco HD,
-La Sexta,LaSexta.es
-La Sexta,ES: LASEXTA RAW ᵃᵐᶻ
-La Sexta,ES: LASEXTA ᴴᴰ ᵃᵐᶻ
-La Sexta,ES: LA SEXTA ᵁᴴᴰ
-La Sexta,ES: LA SEXTA SD
-La Sexta,ES: LA SEXTA ᴴᴰ
+
+
+La Sexta HD,LaSexta.es
+La Sexta HD,ES: LASEXTA RAW ᵃᵐᶻ
+La Sexta HD,ES: LASEXTA ᴴᴰ ᵃᵐᶻ
+La Sexta HD,ES: LA SEXTA ᵁᴴᴰ
+La Sexta HD,ES: LA SEXTA SD
+La Sexta HD,ES: LA SEXTA ᴴᴰ
+
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᵁᴴᴰ
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ SD
 Movistar Plus+ HD,ES: MOVISTAR PLUS+ ᴴᴰ
+
 M+ Cine HD,MovistarCine.es
 M+ Cine HD,ES: MOVISTAR CINE ᵁᴴᴰ
 M+ Cine HD,ES: MOVISTAR CINE ᴴᴰ
 M+ Cine HD,ES: MOVISTAR CINE SD
+
 M+ Series HD,MovistarSeries1.es
 M+ Series HD,ES: MOVISTAR SERIES ᵁᴴᴰ
 M+ Series HD,ES: MOVISTAR SERIES SD
 M+ Series HD,ES: MOVISTAR SERIES ᴴᴰ
+
 M+ Originales HD,ES: MOVISTAR ORIGINALES ᵁᴴᴰ
 M+ Originales HD,ES: MOVISTAR ORIGINALES SD
 M+ Originales HD,ES: MOVISTAR ORIGINALES ᴴᴰ
+
 M+ Navidad,
+
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᵁᴴᴰ
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES ᴴᴰ
 M+ Documentales HD,ES: MOVISTAR DOCUMENTALES SD
+
 M+ Frank Capra,
+
 La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA SD
 La Resistencia 24H,ES: MOVISTAR LA RESISTENCIA ᴴᴰ
+
 M+ Clásicos HD,MovistarClasicos.es
 M+ Clásicos HD,ES: MOVISTAR CLASICOS ᵁᴴᴰ
 M+ Clásicos HD,ES: MOVISTAR CLASICOS SD
 M+ Clásicos HD,ES: MOVISTAR CLASICOS ᴴᴰ
+
 M+ Acción HD,MovistarAccion.es
 M+ Acción HD,ES: MOVISTAR ACCION SD
 M+ Acción HD,ES: MOVISTAR ACCION ᴴᴰ
 M+ Acción HD,ES: MOVISTAR ACCION ᵁᴴᴰ
+
 M+ Comedia HD,MovistarComedia.es
 M+ Comedia HD,ES: MOVISTAR COMEDIA ᵁᴴᴰ
 M+ Comedia HD,ES: MOVISTAR COMEDIA SD
 M+ Comedia HD,ES: MOVISTAR COMEDIA ᴴᴰ
+
 M+ Drama HD,MovistarDrama.es
 M+ Drama HD,ES: MOVISTAR DRAMA ᴴᴰ
 M+ Drama HD,ES: MOVISTAR DRAMA SD
 M+ Drama HD,ES: MOVISTAR DRAMA ᵁᴴᴰ
+
 M+ Indie HD,ES: MOVISTAR INDIE SD
 M+ Indie HD,ES: MOVISTAR INDIE ᵁᴴᴰ
 M+ Indie HD,ES: MOVISTAR INDIE ᴴᴰ
+
 M+ Cine Español,MovistarCineEspanol.es
 M+ Cine Español,ES: MOVISTAR CINE Ñ ᴴᴰ
 M+ Cine Español,ES: MOVISTAR CINE Ñ ᵁᴴᴰ
 M+ Cine Español,ES: MOVISTAR CINE Ñ SD
+
 M+ PopUp,
+
 M+ PopUp 2,
+
 TCM HD,TCM.es
 TCM HD,ES: TCM ᵁᴴᴰ VOS
 TCM HD,ES: TCM ᵁᴴᴰ
 TCM HD,ES: TCM SD
+
+
+Canal Hollywood HD,ES: CANAL HOLLYWOOD ᴴᴰ ᵃᵐᶻ
+Canal Hollywood HD,ES: CANAL HOLLYWOOD RAW ᵃᵐᶻ
+Canal Hollywood HD,Hollywood.es
+Canal Hollywood HD,ES: HOLLYWOOD SD
+Canal Hollywood HD,ES: HOLLYWOOD ᵁᴴᴰ
+
+Paramount Network,ParamountChannel.es
+Paramount Network,ES: PARAMOUNT CHANNEL SD
+Paramount Network,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
+
+Be Mad,
+
+STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
+
+AXN HD,ES: AXN VOS ᵁᴴᴰ
+AXN HD,ES: AXN ᵁᴴᴰ
+AXN HD,AXN.es
+AXN HD,ES: AXN ᴴᴰ
+AXN HD,ES: AXN SD
+
+Warner TV HD,ES: WARNER TV ᴴᴰ
+Warner TV HD,ES: WARNER TV SD
+Warner TV HD,ES: WARNER TV ᵁᴴᴰ VOS
+Warner TV HD,ES: WARNER TV ᵁᴴᴰ
+
+Comedy Central HD,ComedyCentral.es
+Comedy Central HD,ES: COMEDY CENTRAL ᴴᴰ
+Comedy Central HD,ES: COMEDY CENTRAL SD
+Comedy Central HD,ES: COMEDY CENTRAL ᵁᴴᴰ
+
+
+Calle 13 HD,Calle13.es
+Calle 13 HD,ES: CALLE 13 ᴴᴰ
+Calle 13 HD,ES: CALLE 13 SD
+Calle 13 HD,ES: CALLE 13 ᵁᴴᴰ
+
+Cosmo HD,Cosmo.es
+Cosmo HD,ES: COSMO ᴴᴰ
+Cosmo HD,ES: COSMO SD
+Cosmo HD,ES: COSMO ᵁᴴᴰ
+
+SyFy HD,SyFy.es
+SyFy HD,ES: SYFY ᵁᴴᴰ VOS
+SyFy HD,ES: SYFY ᵁᴴᴰ
+
+
+Energy,Energy.es
+Energy,ES: ENERGY ᴴᴰ
+Energy,ES: ENERGY SD
+Energy,ES: ENERGY ᵁᴴᴰ
+
+Factoría de Ficción,ES: FDF ᴴᴰ
+Factoría de Ficción,ES: FDF SD
+Factoría de Ficción,ES: FDF ᵁᴴᴰ
+
+
+Neox,Neox.es
+Neox,ES: NEOX ᴴᴰ
+Neox,ES: NEOX SD
+Neox,ES: NEOX ᵁᴴᴰ
+Neox,ES: NEOX ᴴᴰ ᵃᵐᶻ
+Neox,ES: NEOX RAW ᵃᵐᶻ
+
+
+Caza y Pesca HD,"ES: CAZA Y PESCA ᴴᴰ
+Caza y Pesca HD,CazaPesca.es
+Caza y Pesca HD,ES: CAZA Y PESCA ᵁᴴᴰ
+Caza y Pesca HD,ES: CAZA Y PESCA SD
+
+Iberalia TV,IberaliaTV.es
+Iberalia TV,ES: IBERALIA TV ᵁᴴᴰ
+Iberalia TV,ES: IBERALIA TV ᴴᴰ
+Iberalia TV,ES: IBERALIA TV SD
+
+
+National Geographic HD,NationalGeographic.es
+National Geographic HD,ES: NATIONAL GEOGRAPHIC ᴴᴰ
+National Geographic HD,ES: NATIONAL GEOGRAPHIC SD
+National Geographic HD,ES: NATIONAL GEOGRAPHIC ᵁᴴᴰ
+
+Nat Geo Wild HD,NatGeoWild.es
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC  WILD ᴴᴰ
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD SD
+Nat Geo Wild HD,ES: NATIONAL GEOGRAPHIC WILD ᵁᴴᴰ
+
+Historia,Historia.es
+Historia,ES: HISTORIA ᴴᴰ
+Historia,ES: HISTORIA SD
+Historia,ES: HISTORIA ᵁᴴᴰ
+
+Discovery,DiscoveryChannel.es
+Discovery,ES: DISCOVERY CHANNEL ᴴᴰ
+Discovery,ES: DISCOVERY CHANNEL SD
+Discovery,ES: DISCOVERY CHANNEL ᵁᴴᴰ
+
+Canal Cocina,ES: CANAL COCINA ᴴᴰ ᵃᵐᶻ
+Canal Cocina,ES: CANAL COCINA RAW ᵃᵐᶻ
+Canal Cocina,ES: CANAL COCINA ᴴᴰ
+Canal Cocina,ES: CANAL COCINA SD
+Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ 3840P
+Canal Cocina,ES: CANAL COCINA ᵁᴴᴰ
+Canal Cocina,CanalCocina.es
+
+Decasa,CanalDecasa.es
+Decasa,ES: CANAL DECASA ᵁᴴᴰ
+Decasa,ES: CANAL DECASA ᵁᴴᴰ 3840P
+Decasa,ES: CANAL DECASA ᴴᴰ
+Decasa,ES: CANAL DECASA SD
+Decasa,ES: DECASA ᴴᴰ ᵃᵐᶻ
+Decasa,ES: DECASA RAW ᵃᵐᶻ
+
+Divinity,Divinity.es
+Divinity,ES: DIVINITY ᴴᴰ
+Divinity,ES: DIVINITY SD
+Divinity,ES: DIVINITY ᵁᴴᴰ
+
+Nova,Nova.es
+Nova,ES: NOVA ᴴᴰ
+Nova,ES: NOVA SD
+Nova,ES: NOVA ᵁᴴᴰ
+Nova,ES: NOVA ᴴᴰ ᵃᵐᶻ
+Nova,ES: NOVA RAW ᵃᵐᶻ
+
+Enfamilia,ES: ENFAMILIA ᴴᴰ
+Enfamilia,ES: ENFAMILIA SD
+Enfamilia,ES: ENFAMILIA ᵁᴴᴰ
+Enfamilia,ES: ENFAMILIA ᴴᴰ ᵃᵐᶻ
+Enfamilia,ES: ENFAMILIA RAW ᵃᵐᶻ
+
+
+Baby TV,BabyTV.es
+Baby TV,ES: BABY TV SD
+
+Disney Junior,DisneyJunior.es
+Disney Junior,ES: DISNEY JUNIOR SD
+
+Nick JR,ES: NICK JUNIOR SD
+Nick JR,ES: NICK JUNIOR ᵁᴴᴰ
+Nick JR,ES: NICK JUNIOR ᴴᴰ
+
+
+Nickelodeon HD,Nickelodeon.es
+Nickelodeon HD,ES: NICKELODEON ᴴᴰ
+Nickelodeon HD,ES: NICKELODEON SD
+Nickelodeon HD,ES: NICKELODEON ᵁᴴᴰ
+
+Dreamworks HD,ES: DREAMWORKS ᴴᴰ
+Dreamworks HD,ES: DREAMWORKS SD
+Dreamworks HD,ES: DREAMWORKS ᵁᴴᴰ
+
+Disney Channel HD,DisneyChannel.es
+Disney Channel HD,ES: DISNEY CHANNEL ᴴᴰ
+Disney Channel HD,ES: DISNEY CHANNEL SD
+
+Boing,Boing.es
+Boing,ES: BOING SD
+Boing,ES: BOING ᵁᴴᴰ
+
+Clan,ClanTVE.es
+Clan,ES: CLAN TVE ᴴᴰ
+Clan,ES: CLAN TVE SD
+Clan,ES: CLAN TVE ᵁᴴᴰ
+
+MTV España,MTV.es
+MTV España,ES: MTV ᴴᴰ
+MTV España,ES: MTV SD
+MTV España,ES: MTV ᵁᴴᴰ
+
+MTV 00s,ES: MTV 00S SD
+
+Mezzo,Mezzo.es
+Mezzo,ES: MEZZO SD
+Mezzo,ES: MEZZO ᵁᴴᴰ
+Mezzo,ES: MEZZO ᴴᴰ ᵃᵐᶻ
+Mezzo,ES: MEZZO RAW ᵃᵐᶻ
+
+Mezzo Live HD,ES: MEZZO LIVE SD
+Mezzo Live HD,ES: MEZZO LIVE ᵁᴴᴰ
+
+Classica HD,
+
+24 Horas,ES: 24H TVE ᴴᴰ
+24 Horas,24Horas.es
+24 Horas,ES: 24H TVE ᵁᴴᴰ
+
+BBC World News Europe HD,
+
+CNN International Europe,
+
+Al Jazeera English HD,
+
+France 24 (en Francais),ES: FRANCE 24 ES ᵁᴴᴰ
+
+CNBC Europe HD,
+
+TV5 Monde Europe HD,
+
+Bloomberg TV Europe,
+
+Cubavisión Internacional HD,ES: CUBAVISION SD
+
+Telesur HD,TY: TELESUR ᴿᴬᵂ
+
+Canal Sur Andalucía,CanalAndalucia.es
+Canal Sur Andalucía,ES: CANAL SUR ANDALUCIA SD
+Canal Sur Andalucía,ES: CANAL SUR ᵁᴴᴰ
+
+TVG Europa HD,ES: TV GALICIA ᴴᴰ
+
+Canal Extremadura SAT,ES: EXTREMADURA SAT ᵁᴴᴰ
+
+Aragón TV Internacional,ES: ARAGON TV INT SD
+Aragón TV Internacional,TY: ARAGÓN TV INT ᴿᴬᵂ
+
+Alquiler HD,
+
+Alquiler 1,
+
+À Punt,
+
+Aragón TV,
+
+Navarra TV,
+
+TPA Asturias,ES: VINX TV ASTURIAS ᵁᴴᴰ
+
+CMM TV,ES: CMM ᴴᴰ
+CMM TV,ES: CMM SD
+CMM TV,ES: CMM ᵁᴴᴰ
+
+La 7 CyL,
+
+ETB1,ETB1.es
+ETB1,ES: ETB 1 ᴴᴰ
+
+ETB2,ETB2.es
+ETB2,ES: ETB 2 ᴴᴰ
+
+TVG,ES: TV GALICIA ᴴᴰ
+
+TVG2,
+
+Canal Extremadura,
+
+Telemadrid,TeleMadrid.es
+Telemadrid,ES: TELE MADRID ᵁᴴᴰ
+
+La Otra,LaOtra.es
+La Otra,ES: LA OTRA ᵁᴴᴰ
+La Otra,ES: LA OTRA ᴴᴰ
+La Otra,ES: LA OTRA SD
+
+TV3,TV3Catalunya.es
+TV3,ES: TV3 CATALUÑA ᴴᴰ
+TV3,ES: TV3 CATALUÑA SD
+TV3,ES: TV3 CATALUÑA ᵁᴴᴰ
+
+La 7 Murcia,
+
+Canal Sur HD,CanalAndalucia.es
+Canal Sur HD,ES: CANAL SUR ANDALUCIA SD
+Canal Sur HD,ES: CANAL SUR ᵁᴴᴰ
+
+Andalucía TV,
+
+La Ocho Mediterráneo,
+
+IB3 TV Illes Balears,
+
+TV Canaria,
+
+Max Avances,TY: NEWSMAX TV ᴿᴬᵂ
+
+SkyShowtime,
+
+XTRM,ES: XTRM ᴴᴰ ᵃᵐᶻ
+XTRM,ES: XTRM RAW ᵃᵐᶻ
+XTRM,Xtrm.es
+XTRM,ES: XTRM ᴴᴰ
+XTRM,ES: XTRM SD
+XTRM,ES: XTRM ᵁᴴᴰ
+
+Sundance TV,SundanceTV.es
+Sundance TV,ES: SUNDANCE TV ᵁᴴ
+Sundance TV,ES: SUNDANCE TV SD
+Sundance TV,ES: SUNDANCE TV ᴴᴰ
+Sundance TV,ES: SUNDANCE TV ᴴᴰ ᵃᵐᶻ
+Sundance TV,ES: SUNDANCE TV RAW ᵃᵐᶻ
+
+DARK,Dark.es
+DARK,ES: DARK ᴴᴰ
+DARK,ES: DARK SD
+DARK,ES: DARK ᵁᴴᴰ
+DARK,ES: DARK ᴴᴰ ᵃᵐᶻ
+DARK,ES: DARK RAW ᵃᵐᶻ
+
+Somos,Somos.es
+Somos,ES: SOMOS ᴴᴰ
+Somos,ES: SOMOS SD
+Somos,ES: SOMOS ᵁᴴᴰ
+Somos,ES: SOMOS ᴴᴰ ᵃᵐᶻ
+Somos,ES: SOMOS RAW ᵃᵐᶻ
+
+AMC HD,AMC.es
+AMC HD,ES: AMC ᴴᴰ
+AMC HD,ES: AMC SD
+AMC HD,ES: AMC ᵁᴴᴰ
+AMC HD,ES: AMC RAW ᵃᵐᶻ
+AMC HD,ES: AMC ᴴᴰ ᵃᵐᶻ
+
+AXN Movies HD,ES: AXN MOVIES ᴴᴰ
+AXN Movies HD,ES: AXN MOVIES SD
+AXN Movies HD,ES: AXN MOVIES ᵁᴴᴰ VOS
+AXN Movies HD,ES: AXN MOVIES ᵁᴴᴰ
+
+TRECE,13TV.es
+TRECE,ES: TRECE TV ᴴᴰ
+TRECE,ES: TRECE TV SD
+TRECE,ES: TRECE TV ᵁᴴᴰ
+
+Atreseries,ES: A3SERIES SD
+Atreseries,ES: A3SERIES ᵁᴴᴰ
+Atreseries,ES: A3SERIES ᴴᴰ
+
+Real Madrid TV,RealMadridTV.es
+Real Madrid TV,ES: REAL MADRID TV ᴴᴰ
+Real Madrid TV,ES: REAL MADRID TV SD
+Real Madrid TV,ES: REAL MADRID TV ᵁᴴᴰ
+
+Garage TV,
+
+UBEAT,
+
+Odisea,Odisea.es
+Odisea,ES: ODISEA ᴴᴰ
+Odisea,ES: ODISEA SD
+Odisea,ES: ODISEA ᵁᴴᴰ 3840P
+Odisea,ES: ODISEA ᵁᴴᴰ
+
+AMC Break,AMCBreak.es
+AMC Break,ES: AMC BREAK ᴴᴰ
+AMC Break,ES: AMC BREAK SD
+AMC Break,ES: AMC BREAK ᵁᴴᴰ
+AMC Break,ES: AMC BREAK ᴴᴰ ᵃᵐᶻ
+
+DMAX,Dmax.es
+DMAX,ES: DMAX ᴴᴰ
+DMAX,ES: DMAX SD
+DMAX,ES: DMAX ᵁᴴᴰ
+
+AMC Crime,AMCCrime.es
+AMC Crime,ES: AMC CRIME SD
+AMC Crime,ES: AMC CRIME ᵁᴴᴰ
+AMC Crime,ES: AMC CRIME ᴴᴰ ᵃᵐᶻ
+AMC Crime,ES: AMC CRIME RAW ᵃᵐᶻ
+AMC Crime,ES: AMC CRIME ᴴᴰ
+
+BuenViaje,ES: BUENVIAJE S
+BuenViaje,ES: BUENVIAJE ᵁᴴᴰ
+BuenViaje,ES: ¡BUEN VIAJE! ᴴᴰ ᵃᵐᶻ
+BuenViaje,ES: ¡BUEN VIAJE! RAW ᵃᵐᶻ
+BuenViaje,ES: BUENVIAJE ᴴᴰ
+
+DKISS,ES: DKISS SD
+DKISS,DKISS.es
+DKISS,ES: DKISS ᵁᴴᴰ
+
+Mega,Mega.es
+Mega,ES: MEGA ᴴᴰ
+Mega,ES: MEGA SD
+Mega,ES: MEGA ᵁᴴᴰ
+Mega,ES: MEGA ᴴᴰ ᵃᵐᶻ
+Mega,ES: MEGA RAW ᵃᵐᶻ
+
+Ten,Ten.es
+Ten,ES: TEN SD
+Ten,ES: TEN ᵁᴴᴰ
+
+ETB3,
+
+EuroNews,TY: EURONEWS ᴿᴬᵂ
+
+El Toro TV,ES: EL TORO TV ᴴᴰ
+
+Negocios TV,ES: NEGOCIOS TV ᴴᴰ
+
+CGTN Español,TY: CGTN ESPAÑOL ᴿᴬᵂ
+
+CGTN Documentary,
+
+Canal de las Estrellas,
+
+TV Chile,
+
+Nuestra Tele Internacional,
