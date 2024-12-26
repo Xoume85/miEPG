@@ -100,7 +100,7 @@ TCM HD,TCM.es
 TCM HD,ES: TCM ᵁᴴᴰ VOS
 TCM HD,ES: TCM ᵁᴴᴰ
 TCM HD,ES: TCM SD
-
+TCM HD,ES: TCM ᴴᴰ
 
 Canal Hollywood HD,ES: CANAL HOLLYWOOD ᴴᴰ ᵃᵐᶻ
 Canal Hollywood HD,ES: CANAL HOLLYWOOD RAW ᵃᵐᶻ
@@ -112,7 +112,9 @@ Paramount Network,ParamountChannel.es
 Paramount Network,ES: PARAMOUNT CHANNEL SD
 Paramount Network,ES: PARAMOUNT CHANNEL ᵁᴴᴰ
 
-Be Mad,
+Be Mad,ES: BEMAD ᴴᴰ
+Be Mad,ES: BEMAD SD"
+Be Mad,ES: BEMAD ᵁᴴᴰ
 
 STAR Channel HD,ES: STAR CHANNEL (FOX) ᵁᴴᴰ
 
@@ -331,6 +333,9 @@ TPA Asturias,ES: VINX TV ASTURIAS ᵁᴴᴰ
 CMM TV,ES: CMM ᴴᴰ
 CMM TV,ES: CMM SD
 CMM TV,ES: CMM ᵁᴴᴰ
+CMM TV,ES: CASTILLA LA MANCHA ᴴᴰ
+CMM TV,ES: CASTILLA LA MANCHA ᵁᴴᴰ
+
 
 La 7 CyL,
 
@@ -433,7 +438,7 @@ Real Madrid TV,ES: REAL MADRID TV ᵁᴴᴰ
 
 Garage TV,
 
-UBEAT,
+UBEAT,ES: U-BEAT ᵁᴴᴰ
 
 Odisea,Odisea.es
 Odisea,ES: ODISEA ᴴᴰ
@@ -500,7 +505,7 @@ Nuestra Tele Internacional,
 
 EWTN,
 
-EITB Basque,
+EITB Basque,TY: ETB BASQUE ᴿᴬᵂ
 
 Telemadrid Internacional,TeleMadrid.es
 Telemadrid Internacional,ES: TELE MADRID ᵁᴴᴰ
@@ -631,6 +636,9 @@ DAZN 1 HD,ES: DAZN 1 ᵁᴴᴰ
 DAZN 2 HD,DAZN2.es
 DAZN 2 HD,ES: DAZN 2 ᴴᴰ
 DAZN 2 HD,ES: DAZN 2 SD
+DAZN 2 HD,ES: DAZN 2 ᴴᴰ ᵃᵐᶻ
+DAZN 2 HD,ES: DAZN 2 RAW ᵃᵐᶻ
+DAZN 2 HD,ES: DAZN 2 ᵁᴴᴰ
 
 Eurosport 1 HD,Eurosport1.es
 Eurosport 1 HD,ES: EUROSPORT 1 ᴴᴰ
@@ -795,7 +803,7 @@ Onetoro,ES: ONETORO ᴴᴰ
 Onetoro,ES: ONETORO SD
 Onetoro,ES: ONETORO ᵁᴴᴰ
 
-La 1 Cataluña,
+La 1 Cataluña,TY: TEVE.CAT ᴿᴬᵂ
 
 La 2 Cataluña,
 
@@ -852,3 +860,115 @@ Multicine atresplayer,
 Comedia atresplayer,ES: ATRESPLAYER COMEDIA ᴴᴰ
 Comedia atresplayer,ES: ATRESPLAYER COMEDIA SD
 Comedia atresplayer,ES: ATRESPLAYER COMEDIA ᵁᴴᴰ
+
+Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS ᴴᴰ
+Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS SD
+Inquietos atresplayer,ES: ATRESPLAYER MENTES INQUIETAS ᵁᴴᴰ
+
+Flooxer,ES: FLOOXER ᴴᴰ
+Flooxer,ES: FLOOXER SD
+Flooxer,ES: FLOOXER ᵁᴴᴰ
+
+Kidz,ES: KIDZ ᴴᴰ
+
+ATRESplayer PREMIUM,
+
+GH 24h,
+
+GH 24h Plus,
+
+mitele en la calle,
+
+mitele viajes,
+
+mitele plus lqsa,
+
+mitele comedia,
+
+mitele top series,
+
+acontra+,
+
+A1 Padel,
+
+TV3 Catalunya,
+
+324 Catalunya,
+
+SX3 Catalunya,
+
+El 33 Catalunya,
+
+Esport3 Catalunya,
+
+TV3CAT Catalunya,
+
+BOM Cine,BOMCine.es
+BOM Cine,ES: BOM CINE ᴴᴰ
+
+Red Bull TV,TY: RED BULL TV ᴿᴬᵂ
+Red Bull TV,ES: RED BULL TV ᴴᴰ ᵃᵐᶻ
+Red Bull TV,ES: RED BULL TV RAW ᵃᵐᶻ
+
+TV de Castelló,
+
+SELEKT,ES: AMC SELEKT TV ᴴᴰ
+
+Runtime Thriller-Terror,TY: RUNTIME THRILLER + TERROR ᴿᴬᵂ
+
+Runtime Comedia,TY: RUNTIME COMEDIA ᴿᴬᵂ
+
+Runtime Cine y Series, 
+
+Runtime Series,
+
+Runtime Acción,TY: RUNTIME ACCIÓN ᴿᴬᵂ,
+
+Runtime Crimen,TY: RUNTIME CRIMEN ᴿᴬᵂ
+
+Runtime Romance,TY: RUNTIME ROMANCE ᴿᴬᵂ
+
+Cines Verdi TV,TY: CINES VERDI TV ᴿᴬᵂ
+
+Cine Feel Good,TY: CINE FEEL GOOD VERDI TV ᴿᴬᵂ
+
+OUTtv,ES: OUT TV ᴴᴰ ᵃᵐᶻ
+OUTtv,ES: OUT TV RAW ᵃᵐᶻ
+
+Vivir con gatos,TY: VIVIR CON GATOS ᴿᴬᵂ
+
+Vivir con perros,TY: VIVIR CON PERROS ᴿᴬᵂ
+
+Betis TV,ES: BETIS TV  ᴴᴰ
+
+Motorvision,TY: MOTORVISION TV ᴿᴬᵂ
+
+Cazavisión,ES: CAZAVISION ᴴᴰ
+Cazavisión,ES: CAZAVISION SD
+Cazavisión,ES: CAZAVISION ᵁᴴᴰ
+
+Runtime Clásicos,TY: RUNTIME CLÁSICOS ᴿᴬᵂ
+
+Pocoyó TV,TY: POCOYÓ ᴿᴬᵂ
+
+Film&amp;Co,TY: FILM&CO ᴿᴬᵂ
+
+El País,TY: EL PAÍS ᴿᴬᵂ
+El País,ES: EL PAIS TV ᵁᴴᴰ
+
+Inglés Total Avanzado,TY: ITA AVANZADO ᴿᴬᵂ,
+
+Inglés Total Intermedio,TY: ITA INTERMEDIO ᴿᴬᵂ
+
+Inglés Total Principiante,TY: ITA PRINCIPIANTE ᴿᴬᵂ
+
+Onda Algeciras TV,TY: ONDA ALGECIRAS ᴿᴬᵂ
+
+Sin Filtros,TY: SIN FILTROS ᴿᴬᵂ
+
+Arirang TV HD,TY: ARIRANG INTERNACIONAL ᴿᴬᵂ
+
+Canal Sur 2,ES: CANAL SUR ANDALUCIA 2 ᴴᴰ
+Canal Sur 2,CanalAndalucia.es
+
+El Confidencial,ES: EL CONFEDENCIAL TV ᵁᴴᴰ
