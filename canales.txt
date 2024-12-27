@@ -127,6 +127,8 @@ M+ Cine Español,MovistarCineEspanol.es
 M+ Cine Español,ES: MOVISTAR CINE Ñ ᴴᴰ
 M+ Cine Español,ES: MOVISTAR CINE Ñ ᵁᴴᴰ
 M+ Cine Español,ES: MOVISTAR CINE Ñ SD
+M+ Cine Español,ES | M+ CINE Ñ 
+M+ Cine Español,M+ Cine Español
 
 M+ PopUp,
 
@@ -680,6 +682,7 @@ Esport 3,Esport3.es
 Esport 3,ES: ESPORT 3 ᴴᴰ
 Esport 3,ES | ESPORT 3
 Esport 3,Esport3.es
+Esport 3,
 
 324,ES | 3:24 CATALONIA
 324,324.es
@@ -851,7 +854,6 @@ DAZN 1 HD,DAZN 1
 DAZN 1 HD,ES | DAZN 1 SD
 DAZN 1 HD,DAZN.1.es
 
-
 DAZN 2 HD,DAZN2.es
 DAZN 2 HD,ES: DAZN 2 ᴴᴰ
 DAZN 2 HD,ES: DAZN 2 SD
@@ -940,10 +942,13 @@ M+ Deportes 5,ES: MOVISTAR DEPORTES 5 SD (SOLO EVENTOS)
 M+ Deportes 5,ES | M+ DEPORTÉS 5
 
 M+ Deportes 6,ES: MOVISTAR DEPORTES 6 SD (SOLO EVENTOS)
+M+ Deportes 6,ES | M+ DEPORTÉS 6
 
 M+ Deportes 7,ES: MOVISTAR DEPORTES 7 SD (SOLO EVENTOS)
+M+ Deportes 7,ES | M+ DEPORTÉS 7
 
 M+ Deportes 8,ES: MOVISTAR DEPORTES 8 SD (SOLO EVENTOS)
+
 
 DAZN 3 HD,DAZN3.es
 DAZN 3 HD,ES: DAZN 3 SD
@@ -1159,7 +1164,8 @@ SX3 Catalunya,
 
 El 33 Catalunya,
 
-Esport3 Catalunya,
+Esport3 Catalunya,Esport3.es
+Esport3 Catalunya,ES | ESPORT 3
 
 TV3CAT Catalunya,
 
@@ -1252,3 +1258,46 @@ Canal Sur 2,CanalAndalucia.es
 Canal Sur 2,ES | CANAL SUR 2 ANDALUSÍA 
 
 El Confidencial,ES: EL CONFEDENCIAL TV ᵁᴴᴰ
+
+Sevilla FC Televisión,ES | SEVILLA FC TV 
+
+TVG2,ES | TVG 2
+TVG2,tvg2
+
+Bon Dia TV,ES | BON DIA
+
+La 8 Valladolid,8M.TV
+La 8 Valladolid,ES | LA 8 
+
+
+Star TVE HD,ES | STAR TVE 
+
+tvmataró,ES | MATARÓ
+
+HIT TV,ES | HIT TV
+
+7teleValencia,ES | TELEVALENCIA
+
+FIFA+,ES | FIFA+
+FIFA+,ESBC2700009B4
+
+La Liga Inside,ES | La Liga Inside
+La Liga Inside,ESBD4700001T2
+
+Sol Música,ES | SOL MÚSICA 
+
+Comedias (Rakuten TV),ES | Comedias - Rakuten TV
+Comedias (Rakuten TV),ESAJ4500019AM
+
+
+Cine Español (Rakuten TV),ES | Cine Español - Rakuten TV
+Cine Español (Rakuten TV),ESBC27000062Q
+
+Películas Románticas (Rakuten TV),ES | Películas Románticas - Rakuten TV
+Películas Románticas (Rakuten TV),ESBC27000079V
+
+Dramas (Rakuten TV),ES | Dramas - Rakuten TV
+Dramas (Rakuten TV),ESAJ4500020V7
+
+Acción (Rakuten TV),ES | Acción - Rakuten TV
+Acción (Rakuten TV),ESAJ45000181E
